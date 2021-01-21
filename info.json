@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f3e2ef78a94633978e3e24ed4a1fdf33f98765ad",
+    "author": "Najko Jahn <najko.jahn@gmail.com>",
+    "time": "2021-01-21 10:24:01",
+    "files": 1,
+    "merge": false,
+    "message": "bump to dev\n"
+  },
+  "remote": "https://github.com/ropensci/roadoi",
+  "pkg": "roadoi"
+}
