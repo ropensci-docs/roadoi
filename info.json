@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "531ec3c43bbae6858be976c8ef8e756d8f9cf2b8",
+    "author": "Najko Jahn <najko.jahn@gmail.com>",
+    "time": "2022-02-28 14:26:45",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #32 from ropensci/ws_issue\n\nRemove all types of whitespace #31"
+  },
+  "repo": "https://github.com/ropensci/roadoi",
+  "pkg": "roadoi"
+}
