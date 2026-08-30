@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fcadcf7007d2fc2ab47d0f61549713e9c5c00914",
+    "author": "Najko Jahn <najko.jahn@gmail.com>",
+    "time": "2024-09-26T07:41:32Z",
+    "files": 11,
+    "merge": true,
+    "message": "Merge pull request #35 from ropensci/cran_fix\n\nCran fix"
+  },
+  "repo": "https://github.com/ropensci/roadoi",
+  "pkg": "roadoi",
+  "time": "2026-08-30T07:42:36Z"
+}
